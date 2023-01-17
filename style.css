@@ -1,0 +1,23 @@
+h1 {
+    font-family: cursive;
+    color: purple;
+    text-align: center;
+}
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+    
+}
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+    text-align: center;
+    font-size: 1em;
+}
+body {
+    background-image: url(me_and_babe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
